@@ -2,6 +2,13 @@
 
 Bash script for download files from mega.nz and megacrypter
 
+Installing ? Clone It : 
+$ git clone https://github.com/VeganaShooter/megadown.git
+$ cd megadown
+
+Install Requirements
+sudo apt update && sudo apt install pv
+
 ## Features:
 
  * /#!, /#N!, mega://enc?, mega://enc2 and ANY megacrypter clon link supported
